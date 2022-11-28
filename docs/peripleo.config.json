@@ -10,9 +10,9 @@
     }
   ],
   "facets": [
-    { "name": "langue", "path": ["language"]},
-    { "name": "siècle", "path": ["century"]},
-    { "name": "éditeur", "path": ["publisher"]}
+    { "name": "langue", "path": ["properties", "language"]},
+    { "name": "siècle", "path": ["properties", "century"]},
+    { "name": "éditeur", "path": ["properties", "publisher"]}
   ],
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
