@@ -5,14 +5,12 @@
     {
       "name": "VisitPlus",
       "format": "LINKED_PLACES",
-      "src": "./data/locolligo-test-sevensages.json",
+      "src": "./data/VisitPlus-UK.lp.json",
       "attribution": "VisitPlus © <a href=\"https://britishlibrary.github.io/locating-a-national-collection/\" target=\"_blank\"><i>Locating a National Collection</i> Partners & Contributors</a>"
     }
   ],
   "facets": [
-    { "name": "langue", "path": ["properties", "language"]},
-    { "name": "siècle", "path": ["properties", "century"]},
-    { "name": "éditeur", "path": ["properties", "publisher"]}
+    "type"
   ],
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
