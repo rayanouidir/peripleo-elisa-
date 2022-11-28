@@ -5,7 +5,7 @@
     {
       "name": "Mark16",
       "format": "LINKED_PLACES",
-      "src": "./data/mark16-data-sample.json",
+      "src": "./data/locolligo-test-sevensages.json",
       "attribution": "VisitPlus © <a href=\"https://britishlibrary.github.io/locating-a-national-collection/\" target=\"_blank\"><i>Locating a National Collection</i> Partners & Contributors</a>"
     }
   ],
