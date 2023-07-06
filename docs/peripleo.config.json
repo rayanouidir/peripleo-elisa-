@@ -5,8 +5,10 @@
     {
       "name": "Sept Sages de Rome",
       "format": "LINKED_PLACES",
+      "type_object": ["Manuscript", "Manuscripts"],
       "src": "./data/locolligo-test-sevensages.json",
-      "attribution": "SevenSages © <a href=\"http://sevensages.herokuapp.com/\" target=\"_blank\"><i>The Seven Sages of Rome in the world: Inventory and visualisations</i></a>"
+      "attribution": "SevenSages © <a href=\"http://sevensages.herokuapp.com/\" target=\"_blank\"><i>The Seven Sages of Rome in the world: Inventory and visualisations</i></a>",
+      "new_tab_to": "MARK16 Manuscript Room"
     }
   ],
   "facets": [
