@@ -24,7 +24,6 @@
     { "pattern": "sws.geonames.org", "img": null, "label": "GeoNames" }
   ],
   "welcome_logos": [
-	  {"name":"logo1", "path": "./startup-logo.svg"}
 	],
 	"welcome_message": {
 		"intro": "Bienvenue !",
