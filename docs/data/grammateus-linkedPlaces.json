@@ -3773,7 +3773,7 @@
       "type" : "Epistolary Exchange",
       "origplace" : "Apollonopolis (?)",
       "provenance" : "located",
-      "title" : "P.Eleph. 13",
+      "title" : "P.Eleph. 13"
           },
     "geometry" : {
       "type" : "Point",
@@ -4303,7 +4303,7 @@
       "type" : "Epistolary Exchange",
       "origplace" : "unbekannt",
       "provenance" : "unknown",
-      "title" : "SB 20 15069",
+      "title" : "SB 20 15069"
           },
     "geometry" : {
       "type" : "Point",
@@ -4479,8 +4479,8 @@
       "type" : "Epistolary Exchange",
       "origplace" : "unbekannt",
       "provenance" : "unknown",
-      "title" : "SB",
-          },
+      "title" : "SB"
+    },
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
@@ -4498,8 +4498,8 @@
       "type" : "Epistolary Exchange",
       "origplace" : "unbekannt",
       "provenance" : "unknown",
-      "title" : "BGU 4 1080",
-          },
+      "title" : "BGU 4 1080"
+    },
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
@@ -4670,8 +4670,8 @@
       "type" : "Epistolary Exchange",
       "origplace" : "unbekannt",
       "provenance" : "unknown",
-      "title" : "SB 8 9826",
-          },
+      "title" : "SB 8 9826"
+    },
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
@@ -4730,8 +4730,8 @@
       "type" : "Epistolary Exchange",
       "origplace" : "unbekannt",
       "provenance" : "unknown",
-      "title" : "P.Köln 3 161",
-          },
+      "title" : "P.Köln 3 161"
+    },
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
@@ -5075,8 +5075,8 @@
       "type" : "Epistolary Exchange",
       "origplace" : "unbekannt",
       "provenance" : "unknown",
-      "title" : "SB 6 9122",
-          },
+      "title" : "SB 6 9122"
+    },
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
@@ -5495,8 +5495,8 @@
       "type" : "Epistolary Exchange",
       "origplace" : "Alexandria",
       "provenance" : "located",
-      "title" : "P.Mich. 3 221",
-          },
+      "title" : "P.Mich. 3 221"
+    },
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 29.909773, 31.201435 ]
@@ -5903,8 +5903,8 @@
       "type" : "Epistolary Exchange",
       "origplace" : "unbekannt",
       "provenance" : "unknown",
-      "title" : "SB 3 6823",
-          },
+      "title" : "SB 3 6823"
+    },
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
@@ -6087,8 +6087,8 @@
       "type" : "Epistolary Exchange",
       "origplace" : "Alexandria",
       "provenance" : "located",
-      "title" : "P.Col. 8 216",
-          },
+      "title" : "P.Col. 8 216"
+    },
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 29.909773, 31.201435 ]
@@ -9561,8 +9561,8 @@
       "type" : "Epistolary Exchange",
       "origplace" : "unbekannt",
       "provenance" : "unknown",
-      "title" : "P.Berl. Zill. 12",
-          },
+      "title" : "P.Berl. Zill. 12"
+    },
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
@@ -9623,8 +9623,8 @@
       "type" : "Epistolary Exchange",
       "origplace" : "unbekannt",
       "provenance" : "unknown",
-      "title" : "SB 16 12326",
-          },
+      "title" : "SB 16 12326"
+    },
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
@@ -9750,8 +9750,8 @@
       "type" : "Epistolary Exchange",
       "origplace" : "unbekannt",
       "provenance" : "unknown",
-      "title" : "P.Hamb. 1 87",
-          },
+      "title" : "P.Hamb. 1 87"
+    },
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
@@ -9920,8 +9920,8 @@
       "type" : "Epistolary Exchange",
       "origplace" : "unbekannt",
       "provenance" : "unknown",
-      "title" : "SB 14 11645",
-          },
+      "title" : "SB 14 11645"
+    },
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
@@ -10066,8 +10066,8 @@
       "type" : "Epistolary Exchange",
       "origplace" : "unbekannt",
       "provenance" : "unknown",
-      "title" : "SB 6 9531",
-          },
+      "title" : "SB 6 9531"
+    },
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
@@ -10085,8 +10085,8 @@
       "type" : "Epistolary Exchange",
       "origplace" : "unbekannt",
       "provenance" : "unknown",
-      "title" : "SB 6 9120",
-          },
+      "title" : "SB 6 9120"
+    },
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
@@ -10104,8 +10104,8 @@
       "type" : "Epistolary Exchange",
       "origplace" : "unbekannt",
       "provenance" : "unknown",
-      "title" : "P.Berl. Zill. 10",
-          },
+      "title" : "P.Berl. Zill. 10"
+    },
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
@@ -11103,8 +11103,8 @@
       "type" : "Epistolary Exchange",
       "origplace" : "unbekannt",
       "provenance" : "unknown",
-      "title" : "P.Col. 8 215",
-          },
+      "title" : "P.Col. 8 215"
+    },
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
@@ -11208,8 +11208,8 @@
       "type" : "Epistolary Exchange",
       "origplace" : "unbekannt",
       "provenance" : "unknown",
-      "title" : "P.Pintaudi 55",
-          },
+      "title" : "P.Pintaudi 55"
+    },
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
@@ -14726,8 +14726,8 @@
       "type" : "Epistolary Exchange",
       "origplace" : "unbekannt",
       "provenance" : "unknown",
-      "title" : "P.Gron. 15",
-          },
+      "title" : "P.Gron. 15"
+    },
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
@@ -14767,8 +14767,8 @@
       "type" : "Epistolary Exchange",
       "origplace" : "unbekannt",
       "provenance" : "unknown",
-      "title" : "P.Oslo 2 54",
-          },
+      "title" : "P.Oslo 2 54"
+    },
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
@@ -18976,8 +18976,8 @@
       "type" : "Epistolary Exchange",
       "origplace" : "unbekannt",
       "provenance" : "unknown",
-      "title" : "BGU 6 1300",
-          },
+      "title" : "BGU 6 1300"
+    },
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
@@ -19542,8 +19542,8 @@
       "type" : "Epistolary Exchange",
       "origplace" : "unbekannt",
       "provenance" : "unknown",
-      "title" : "SB 3 6262",
-          },
+      "title" : "SB 3 6262"
+    },
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
@@ -19561,8 +19561,8 @@
       "type" : "Epistolary Exchange",
       "origplace" : "unbekannt",
       "provenance" : "unknown",
-      "title" : "SB 18 14052",
-          },
+      "title" : "SB 18 14052"
+    },
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
@@ -19688,8 +19688,8 @@
       "type" : "Epistolary Exchange",
       "origplace" : "unbekannt",
       "provenance" : "unknown",
-      "title" : "SB 14 12081",
-          },
+      "title" : "SB 14 12081"
+    },
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
@@ -20061,8 +20061,8 @@
       "type" : "Epistolary Exchange",
       "origplace" : "unbekannt",
       "provenance" : "unknown",
-      "title" : "SB 14 11898",
-          },
+      "title" : "SB 14 11898"
+    },
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
@@ -24091,8 +24091,8 @@
       "type" : "Epistolary Exchange",
       "origplace" : "unbekannt",
       "provenance" : "unknown",
-      "title" : "VBP 2 15",
-          },
+      "title" : "VBP 2 15"
+    },
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
@@ -24469,8 +24469,8 @@
       "type" : "Epistolary Exchange",
       "origplace" : "Alexandria (?)",
       "provenance" : "located",
-      "title" : "P.Mich. 3 213",
-          },
+      "title" : "P.Mich. 3 213"
+    },
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ 29.909773, 31.201435 ]
@@ -24556,8 +24556,8 @@
       "type" : "Epistolary Exchange",
       "origplace" : "unbekannt",
       "provenance" : "unknown",
-      "title" : "VBP 2 43",
-          },
+      "title" : "VBP 2 43"
+    },
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
@@ -24727,8 +24727,8 @@
       "type" : "Epistolary Exchange",
       "origplace" : "unbekannt",
       "provenance" : "unknown",
-      "title" : "SB 14 11901",
-          },
+      "title" : "SB 14 11901"
+    },
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
@@ -24813,8 +24813,8 @@
       "type" : "Epistolary Exchange",
       "origplace" : "unbekannt",
       "provenance" : "unknown",
-      "title" : "P.Mich. 3 206",
-          },
+      "title" : "P.Mich. 3 206"
+    },
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
@@ -25150,8 +25150,8 @@
       "type" : "Epistolary Exchange",
       "origplace" : "unbekannt",
       "provenance" : "unknown",
-      "title" : "SB 18 13303",
-          },
+      "title" : "SB 18 13303"
+    },
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
@@ -29251,8 +29251,8 @@
       "type" : "Epistolary Exchange",
       "origplace" : "unbekannt",
       "provenance" : "unknown",
-      "title" : "P.Cair. Zen. 3 59478",
-          },
+      "title" : "P.Cair. Zen. 3 59478"
+    },
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
