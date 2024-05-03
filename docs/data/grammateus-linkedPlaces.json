@@ -2,7 +2,7 @@
   "@id" : "https://gitlab.unige.ch/Adrien.Dejean/application-info",
   "type" : "FeatureCollection",
   "@context" : "http://linkedpasts.org/assets/linkedplaces-context-v1.jsonld",
-  "features" : [ [ {
+  "features" : [ {
     "@id" : "11658",
     "type" : "Feature",
     "properties" : {
@@ -34964,5 +34964,5 @@
       "value" : "Arsinoites, Ägypten"
     } ],
     "links" : [ ]
-  } ] ]
+  } ] 
 }
