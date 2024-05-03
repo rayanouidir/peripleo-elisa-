@@ -3774,7 +3774,7 @@
       "origplace" : "Apollonopolis (?)",
       "provenance" : "located",
       "title" : "P.Eleph. 13"
-          },
+    },
     "geometry" : {
       "type" : "Point",
       "coordinates" : [ "29.157504099106227", "34.1739331756946" ]
